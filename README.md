@@ -22,6 +22,6 @@
 5. 매주: 프로그래머스 지정 문제 일주일에 하나씩 풀고 인증하기 (Java)
 
 # 🔗 관련 링크
-Notion: https://www.notion.so/kimsoobin1602/217957a41faf8011aaa8da76eec79cb0
+Notion: https://kimsoobin1602.notion.site/217957a41faf8011aaa8da76eec79cb0?source=copy_link
 
 구글폼: https://forms.gle/Py3kLEcSf1SBSGG78

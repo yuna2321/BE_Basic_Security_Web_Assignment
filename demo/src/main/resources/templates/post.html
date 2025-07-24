@@ -1,0 +1,18 @@
+<!-- templates/board/post.html -->
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>글 작성</title>
+</head>
+<body>
+<h1>✏️ 게시글 작성</h1>
+
+<form action="/board/save" method="post">
+    제목: <input type="text" name="title"><br>
+    내용: <textarea name="content"></textarea><br>
+    <button type="submit">등록</button>
+</form>
+
+<a href="/board">← 목록으로</a>
+</body>
+</html>

@@ -10,7 +10,6 @@ import org.springframework.stereotype.Service;
 
 @Entity
 @Getter
-@Data
 public class BoardEntity {
 
     @Id
